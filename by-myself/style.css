@@ -1,0 +1,45 @@
+body{
+  background-color: blueviolet;
+}
+.hs{
+  display: flex;
+  justify-content: center;
+}
+.hss{
+  display: flex;
+  justify-content: center;
+}
+.krk{
+  background-color: rgb(140, 145, 201);
+  height: 650px;
+  width: 500px;
+  border-radius: 10px;
+}
+.image{
+  height: 550px;
+  width: 500px;
+  border-radius: 10px;
+}
+.par{
+  padding-left: 10px;
+}
+.xruxuna{
+  padding-left: 10px;
+  cursor: pointer;
+}
+.krk2{
+  background-color: rgb(140, 145, 201);
+  height: 650px;
+  width: 500px;
+  border-radius: 10px;
+}
+.image2{
+  height: 550px;
+  width: 500px;
+  border-radius: 10px;
+}
+.main-krk{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 90px;
+}
