@@ -7,3 +7,49 @@
   justify-content: center;
   align-items: center;
 }
+
+body{
+  background-color: bisque
+}
+
+.img1{
+  width: 500px;
+  height: 500px;
+  border-radius: 10px;
+}
+.pa{
+  text-align: center;
+  cursor: pointer;
+  padding-bottom: 15px;
+}
+.div1{
+   background-color: #fff;
+   border-radius: 10px;
+   width: 500px;
+}
+.seqcia{
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 60px;
+}
+.div2{
+  background-color: #fff;
+  border-radius: 10px;
+   width: 500px;
+}
+.pa3{
+  text-align: center;
+  cursor: pointer;
+  padding-bottom: 15px;
+}
+
+.div4{
+  background-color: #fff;
+  border-radius: 10px;
+   width: 500px;
+}
+.pa4{
+  text-align: center;
+  cursor: pointer;
+  padding-bottom: 15px;
+}
